@@ -27,7 +27,8 @@ function App() {
       <div className='w-full block'>
         <Header />
         <main>
-        TODO:  <Outlet />
+            <h1 className='text-3xl text-center mt-4'>Waqas Mega Project</h1>
+         <Outlet />
         </main>
         <Footer />
       </div>
